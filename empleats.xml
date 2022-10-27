@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleats>
+    <empleat>
+        <nom> Juan </nom>
+        <cognom> García </cognom>
+        <direcció> Tafalgar </direcció>
+        <telèfon> 721356321 </telèfon>
+    </empleat>
+</empleats>
