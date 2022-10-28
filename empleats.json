@@ -1,0 +1,8 @@
+{
+    "empleats": {
+        "empleat": [
+            { "nom": "Juan", "cognom": "García", "direcció": "Tafalgar", "ciutat": "Barcelona", "email": "jgarcia1421@gmail.com", "telèfon": "721356321"},
+            { "nom": "Alicia", "cognom": "Salmena", "direcció": "Industria", "ciutat": "Barcelona", "email": "alicia21@gmail.com", "telèfon": "6938414245"}
+        ]            
+    }
+}

@@ -4,6 +4,17 @@
         <nom> Juan </nom>
         <cognom> García </cognom>
         <direcció> Tafalgar </direcció>
+        <ciutat> Barcelona </ciutat>
+        <email> jgarcia1421@gmail.com </email>
         <telèfon> 721356321 </telèfon>
+    </empleat>
+    
+    <empleat>
+        <nom> Alicia </nom>
+        <cognom> Salmena </cognom>
+        <direcció> Industria </direcció>
+        <ciutat> Barcelona </ciutat>
+        <email> alicia21@gmail.com </email>
+        <telèfon> 693841245 </telèfon>
     </empleat>
 </empleats>
